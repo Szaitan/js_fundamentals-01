@@ -1,7 +1,8 @@
 let js = "amazing";
-console.log(40+8+23+10);
+console.log(40 + 8 + 23 + 10);
 let first_val = "bob"
 first_val = "Bober kurwa"
+console.log(first_val)
 console.log(first_val)
 console.log(first_val)
 console.log(first_val)
