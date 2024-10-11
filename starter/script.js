@@ -9,4 +9,3 @@ console.log(first_val)
 
 // Constant variable like pi can be written with all upper letters to create constant variable
 const PI = 3.14
-
